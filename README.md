@@ -157,7 +157,6 @@ This document provides a comprehensive list of all Manifold smart contract deplo
 
 | Contract | Network | Address | Explorer |
 |----------|---------|---------|----------|
-| Artist Proof Beta | All Networks | `0xF6B73A9f684740E6fDA95487d11cd789965a807d` | - |
 | Airdrop Verifier | All Networks | `0x65a9e36BA55AE6e2Ee80502cEBA62d6741857AB7` | - |
 | Airdrop Verifier | Ethereum Mainnet | `0x65a9e36ba55ae6e2ee80502ceba62d6741857ab7` | [View](https://etherscan.io/address/0x65a9e36ba55ae6e2ee80502ceba62d6741857ab7) |
 | ERC721 Mint Guard | All Networks | `0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9` | - |
