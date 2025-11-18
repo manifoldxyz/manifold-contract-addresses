@@ -25,8 +25,8 @@ This document provides a comprehensive list of all Manifold smart contract deplo
 | Sepolia Testnet | 11155111 | [sepolia.etherscan.io](https://sepolia.etherscan.io) |
 | Optimism | 10 | [optimistic.etherscan.io](https://optimistic.etherscan.io) |
 | Base | 8453 | [basescan.org](https://basescan.org) |
-| Shape | 360 | - |
-| Apechain | 33139 | - |
+| Shape | 360 | [shapescan.xyz](https://shapescan.xyz/) |
+| Apechain | 33139 | [apescan.io](https://apescan.io/) |
 
 ## Core Contracts
 
