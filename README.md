@@ -15,7 +15,6 @@ This document provides a comprehensive list of all Manifold smart contract deplo
 - [Infrastructure Contracts](#infrastructure-contracts)
 - [Delegation Registry](#delegation-registry)
 - [Royalty System](#royalty-system)
-- [Supported ERC20 Tokens](#supported-erc20-tokens)
 - [Deprecated Contracts](#deprecated-contracts)
 
 ## Networks
@@ -194,25 +193,6 @@ This document provides a comprehensive list of all Manifold smart contract deplo
 | Royalty Registry | Ethereum Mainnet | `0xad2184fb5dbcfc05d8f056542fb25b04fa32a95d` | [View](https://etherscan.io/address/0xad2184fb5dbcfc05d8f056542fb25b04fa32a95d) |
 | Royalty Engine | Ethereum Mainnet | `0x0385603ab55642cb4dd5de3ae9e306809991804f` | [View](https://etherscan.io/address/0x0385603ab55642cb4dd5de3ae9e306809991804f) |
 
-## Supported ERC20 Tokens
-
-These ERC20 tokens are supported as payment methods in Manifold Claim extensions on **Ethereum Mainnet**:
-
-| Token | Symbol | Address | Explorer |
-|-------|--------|---------|----------|
-| USD Coin | USDC | `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` | [View](https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48) |
-| Tether USD | USDT | `0xdAC17F958D2ee523a2206206994597C13D831ec7` | [View](https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7) |
-| Dai Stablecoin | DAI | `0x6B175474E89094C44Da98b954EedeAC495271d0F` | [View](https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F) |
-| Wrapped Ether | WETH | `0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2` | [View](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) |
-| ApeCoin | APE | `0x4d224452801ACEd8B2F0aebE155379bb5D594381` | [View](https://etherscan.io/address/0x4d224452801ACEd8B2F0aebE155379bb5D594381) |
-| LooksRare | LOOKS | `0xf4d2888d29D722226FafA5d9B24F9164c092421E` | [View](https://etherscan.io/address/0xf4d2888d29D722226FafA5d9B24F9164c092421E) |
-| SuperRare | RARE | `0xba5BDe662c17e2aDFF1075610382B9B691296350` | [View](https://etherscan.io/address/0xba5BDe662c17e2aDFF1075610382B9B691296350) |
-| Art Gobblers Goo | GOO | `0x600000000a36F3cD48407e35eB7C5c910dc1f7a8` | [View](https://etherscan.io/address/0x600000000a36F3cD48407e35eB7C5c910dc1f7a8) |
-| Ash | ASH | `0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92` | [View](https://etherscan.io/address/0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92) |
-| IYKYK | IYKYK | `0x7CB683151a83C2b10A30Cbb003CDA9996228A2Ba` | [View](https://etherscan.io/address/0x7CB683151a83C2b10A30Cbb003CDA9996228A2Ba) |
-| Pepe | PEPE | `0x6982508145454Ce325dDbE47a25d4ec3d2311933` | [View](https://etherscan.io/address/0x6982508145454Ce325dDbE47a25d4ec3d2311933) |
-| Turbo | TURBO | `0xA35923162C49cF95e6BF26623385eb431ad920D3` | [View](https://etherscan.io/address/0xA35923162C49cF95e6BF26623385eb431ad920D3) |
-
 ## Deprecated Contracts
 
 These contracts are no longer actively used but are maintained for historical reference:
@@ -230,6 +210,6 @@ To report incorrect addresses or request updates, please:
 
 ---
 
-*Last Updated: November 2024*
+*Last Updated: November 2025*
 
 *This document is maintained by Manifold and serves as the authoritative source for all Manifold contract addresses.*
