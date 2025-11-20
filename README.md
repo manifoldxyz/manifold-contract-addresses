@@ -71,7 +71,8 @@ This document provides a comprehensive list of all Manifold smart contract deplo
 | ERC721 Mint Guard | Mint guard for ERC721 | `0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9` | ✅ | [View](https://etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) |
 | ERC1155 Mint Guard | Mint guard for ERC1155 | `0xBCEabf7B3c7b784589afB411802c7C050c4dfC00` | ✅ | [View](https://etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) |
 | Artist Proof Beta | Artist proof beta contract | `0xF6B73a9f684740E6Fda95487d11Cd789965a807D` | ✅ | [View](https://etherscan.io/address/0xF6B73a9f684740E6Fda95487d11Cd789965a807D) |
-| Operator Filterer | OpenSea operator filter | `0x3e31cb740351d8650b36e8ece95a8efcd1fc28c2` | ❌ | [View](https://etherscan.io/address/0x3e31cb740351d8650b36e8ece95a8efcd1fc28c2) |
+| Creator Operator Filterer | Creator controlled operator filter | `0x3e31cb740351d8650b36e8ece95a8efcd1fc28c2` | ❌ | [View](https://etherscan.io/address/0x3e31cb740351d8650b36e8ece95a8efcd1fc28c2) |
+| Operator Filterer | OpenSea operator filter registry | `0x1dE06D2875453a272628BbB957077d18eb4A84CD` | ❌ | [View](https://etherscan.io/address/0x1dE06D2875453a272628BbB957077d18eb4A84CD) |
 | Delegation Registry v1 | Delegation registry v1 | `0x00000000000076A84feF008CDAbe6409d2FE638B` | ✅ | [View](https://etherscan.io/address/0x00000000000076A84feF008CDAbe6409d2FE638B) |
 | Delegation Registry v2 | Delegation registry v2 | `0x00000000000000447e69651d841bD8D104Bed493` | ✅ | [View](https://etherscan.io/address/0x00000000000000447e69651d841bD8D104Bed493) |
 | Royalty Registry | Mainnet royalty registry | `0xad2184fb5dbcfc05d8f056542fb25b04fa32a95d` | ❌ | [View](https://etherscan.io/address/0xad2184fb5dbcfc05d8f056542fb25b04fa32a95d) |
