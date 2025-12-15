@@ -48,7 +48,7 @@ Marketplace extension to create private listings
 [Base](https://basescan.org/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Optimism](https://optimistic.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Shape](https://shapescan.xyz/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Apechain](https://apescan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Sepolia](https://sepolia.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70)  
 `0x821F593ee72A187188AB3Fb1e68d58EBBe478E70`
 
-# ERC721 Batch Mint
+## ERC721 Batch Mint
 Mint a group of NFT's on an ERC721 Manifold Creator Contract
 ### V1
 [Mainnet](https://etherscan.io/address/0xc68afc6A3B47b108Db5e48fB53a10D2D9c11b094)  
@@ -61,7 +61,7 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 [Mainnet](https://etherscan.io/address/0x76Da6Eb8C7BA072937E917286d3A23dC7ccBED99) | [Base](https://basescan.org/address/0x76Da6Eb8C7BA072937E917286d3A23dC7ccBED99) | [Optimism](https://optimistic.etherscan.io/address/0x76Da6Eb8C7BA072937E917286d3A23dC7ccBED99) | [Shape](https://shapescan.xyz/address/0x76Da6Eb8C7BA072937E917286d3A23dC7ccBED99) | [Sepolia](https://sepolia.etherscan.io/address/0x76Da6Eb8C7BA072937E917286d3A23dC7ccBED99)  
 `0x76Da6Eb8C7BA072937E917286d3A23dC7ccBED99`
 
-# ERC721 Edition (Formerly known as Claim)
+## ERC721 Edition (Formerly known as Claim)
 ### V1
 [Mainnet](https://etherscan.io/address/0xb08Aa31Cc2B8C0582bE42D38Bb643292e0A4b9EB#code)  
 `0xb08Aa31Cc2B8C0582bE42D38Bb643292e0A4b9EB`
@@ -94,7 +94,7 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 [Mainnet](https://etherscan.io/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Base](https://basescan.org/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Optimism](https://optimistic.etherscan.io/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Shape](https://shapescan.xyz/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Sepolia](https://sepolia.etherscan.io/address/0x5889E848b2423344F7969bC158100c07595c0137)  
 `0x5889E848b2423344F7969bC158100c07595c0137`
 
-# ERC1155 Edition (Formerly known as Claim)
+## ERC1155 Edition (Formerly known as Claim)
 ### V1
 [Mainnet](https://etherscan.io/address/0xca71c5270EFf44Eb6D813A92c0ba12577bDDf2080xca71c5270EFf44Eb6D813A92c0ba12577bDDf208)  
 `0xca71c5270EFf44Eb6D813A92c0ba12577bDDf208`
