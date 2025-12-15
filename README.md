@@ -6,22 +6,22 @@ This document provides a comprehensive list of all Manifold smart contract deplo
 
 ## Contract Deployment Factory
 Used by various Manifold products to perform deterministic deployments  
-[Mainnet](https://etherscan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Base](https://basescan.org/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Optimism](https://optimistic.etherscan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Shape](https://shapescan.xyz/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Ape](https://apescan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Sepolia](https://sepolia.etherscan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A)  
+[Mainnet](https://etherscan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Base](https://basescan.org/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Optimism](https://optimistic.etherscan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Shape](https://shapescan.xyz/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Apechain](https://apescan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A) | [Sepolia](https://sepolia.etherscan.io/address/0xF3Cd1e9326D1965935B287b1eE75c7183359A88A)  
 `0xF3Cd1e9326D1965935B287b1eE75c7183359A88A`
 
 ## Address Verifier
 Used by various Manifold products to check whether or not an address can receive an NFT  
-[Mainnet](https://etherscan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Base](https://basescan.org/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Optimism](https://optimistic.etherscan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Shape](https://shapescan.xyz/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Ape](https://apescan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Sepolia](https://sepolia.etherscan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7)  
+[Mainnet](https://etherscan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Base](https://basescan.org/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Optimism](https://optimistic.etherscan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Shape](https://shapescan.xyz/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Apechain](https://apescan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7) | [Sepolia](https://sepolia.etherscan.io/address/0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7)  
 `0x65a9E36BA55AE6e2Ee80502cEBA62d6741857AB7`
 
 ## ERC721 Idempotent Mint
 Extension for a Manifold Creator Contract to perform idempotent ERC721 Mints  
-[Mainnet](https://etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Base](https://basescan.org/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Optimism](https://optimistic.etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Shape](https://shapescan.xyz/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Ape](https://apescan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Sepolia](https://sepolia.etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9)  
+[Mainnet](https://etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Base](https://basescan.org/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Optimism](https://optimistic.etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Shape](https://shapescan.xyz/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Apechain](https://apescan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9) | [Sepolia](https://sepolia.etherscan.io/address/0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9)  
 `0x7946a4bc596E0172c4F7fCc5a1Da3a019eF85eB9`
 
 ## ERC1155 Idempotent Mint
 Extension for a Manifold Creator Contract to perform idempotent ERC721 Mints  
-[Mainnet](https://etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Base](https://basescan.org/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Optimism](https://optimistic.etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Shape](https://shapescan.xyz/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Ape](https://apescan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Sepolia](https://sepolia.etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00)  
+[Mainnet](https://etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Base](https://basescan.org/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Optimism](https://optimistic.etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Shape](https://shapescan.xyz/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Apechain](https://apescan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00) | [Sepolia](https://sepolia.etherscan.io/address/0xBCEabf7B3c7b784589afB411802c7C050c4dfC00)  
 `0xBCEabf7B3c7b784589afB411802c7C050c4dfC00`
 
 ## Marketplace
@@ -31,7 +31,7 @@ Manifold marketplace contract
 `0x3A3548e060Be10c2614d0a4Cb0c03CC9093fD799`
 
 ### V2
-[Base](https://basescan.org/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Optimism](https://optimistic.etherscan.io/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Shape](https://shapescan.xyz/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Ape](https://apescan.io/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Sepolia](https://sepolia.etherscan.io/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421)  
+[Base](https://basescan.org/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Optimism](https://optimistic.etherscan.io/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Shape](https://shapescan.xyz/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Apechain](https://apescan.io/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421) | [Sepolia](https://sepolia.etherscan.io/address/0x5246807fB65d87b0D0a234E0f3D42374de83B421)  
 `0x5246807fB65d87b0D0a234E0f3D42374de83B421`
 
 ### Christie's
@@ -41,11 +41,11 @@ Manifold marketplace contract
 ## Marketplace Extensions
 Extensions used to enhance marketplace functionality
 ### Private Listing
-Marketplace extension to create private listings
+Marketplace extension to create private listings  
 [Mainnet](https://etherscan.io/address/0x4eb327e272d11882510146E57FfAfB5eA2F2B1D6)  
 `0x4eb327e272d11882510146E57FfAfB5eA2F2B1D6`  
   
-[Base](https://basescan.org/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Optimism](https://optimistic.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Shape](https://shapescan.xyz/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Ape](https://apescan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Sepolia](https://sepolia.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70)  
+[Base](https://basescan.org/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Optimism](https://optimistic.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Shape](https://shapescan.xyz/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Apechain](https://apescan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Sepolia](https://sepolia.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70)  
 `0x821F593ee72A187188AB3Fb1e68d58EBBe478E70`
 
 # ERC721 Batch Mint
@@ -120,7 +120,7 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 `0x04bA6cf3c5AA6D4946F5B7f7ADF111012a9fAC65`
 
 ### V7
-[Mainnet](https://etherscan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Base](https://basescan.org/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Optimism](https://optimistic.etherscan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE)| [Shape](https://shapescan.xyz/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Ape](https://apescan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Sepolia](https://sepolia.etherscan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE)  
+[Mainnet](https://etherscan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Base](https://basescan.org/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Optimism](https://optimistic.etherscan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE)| [Shape](https://shapescan.xyz/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE) | [Sepolia](https://sepolia.etherscan.io/address/0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE)  
 `0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE`
 
 ### V8
@@ -131,6 +131,7 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 ### V1
 [Mainnet](https://etherscan.io/address/0x48b471fB4F2D996C251B570aC5Cd84542eBDFad2)  
 `0x48b471fB4F2D996C251B570aC5Cd84542eBDFad2`
+  
 [Sepolia](https://sepolia.etherscan.io/address/0x4f976Fd3D311BeF8a3c5BFf0E59C1650A20D2570)  
 `0x4f976Fd3D311BeF8a3c5BFf0E59C1650A20D2570`
 
@@ -202,7 +203,7 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 `0x92C3E92574D1c0B758c3c1a4feA51A25AbE43913`
 
 ### V5
-[Mainnet](https://etherscan.io/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Base](https://basescan.org/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Optimism](https://optimistic.etherscan.io/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) [Shape](https://shapescan.xyz/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Sepolia](https://sepolia.etherscan.io/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2)  
+[Mainnet](https://etherscan.io/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Base](https://basescan.org/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Optimism](https://optimistic.etherscan.io/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Shape](https://shapescan.xyz/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2) | [Sepolia](https://sepolia.etherscan.io/address/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2)  
 `0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2`
 
 ## Cross-Chain Burn
