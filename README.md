@@ -51,7 +51,7 @@ Marketplace extension to create private listings
 # ERC721 Batch Mint
 Mint a group of NFT's on an ERC721 Manifold Creator Contract
 ### V1
-[Mainnet](https://etherscan.io/address/0xc68afc6A3B47b108Db5e48fB53a10D2D9c11b094)
+[Mainnet](https://etherscan.io/address/0xc68afc6A3B47b108Db5e48fB53a10D2D9c11b094)  
 `0xc68afc6A3B47b108Db5e48fB53a10D2D9c11b094`  
   
 [Base](https://basescan.org/address/0xF72a0831B071aDba60BEF4F90D1f42B83687e2eC) | [Optimism](https://optimistic.etherscan.io/address/0xF72a0831B071aDba60BEF4F90D1f42B83687e2eC) | [Shape](https://shapescan.xyz/address/0xF72a0831B071aDba60BEF4F90D1f42B83687e2eC) | [Sepolia](https://sepolia.etherscan.io/address/0xF72a0831B071aDba60BEF4F90D1f42B83687e2eC)  
