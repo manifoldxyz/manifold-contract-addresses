@@ -48,6 +48,15 @@ Marketplace extension to create private listings
 [Base](https://basescan.org/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Optimism](https://optimistic.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Shape](https://shapescan.xyz/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Apechain](https://apescan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70) | [Sepolia](https://sepolia.etherscan.io/address/0x821F593ee72A187188AB3Fb1e68d58EBBe478E70)  
 `0x821F593ee72A187188AB3Fb1e68d58EBBe478E70`
 
+## Burn Auction
+Auction for an ERC721 or ERC1155 where bids are ERC1155 tokens. The winning bid is burned or sent to the seller (TokenBidAuction)
+### V1
+[Mainnet](https://etherscan.io/address/0xD01c3bFADb3DdbD8725d3e0A5193d7ADC5158B64)  
+`0xD01c3bFADb3DdbD8725d3e0A5193d7ADC5158B64`  
+  
+[Sepolia](https://sepolia.etherscan.io/address/0xA54E8F053aB94a1d670328f6574b43B4f353646a)  
+`0xA54E8F053aB94a1d670328f6574b43B4f353646a`
+
 ## ERC721 Batch Mint
 Mint a group of NFT's on an ERC721 Manifold Creator Contract
 ### V1
