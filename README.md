@@ -49,7 +49,7 @@ Marketplace extension to create private listings
 `0x821F593ee72A187188AB3Fb1e68d58EBBe478E70`
 
 ## Burn Auction
-Auction for an ERC721 or ERC1155 where bids are ERC1155 tokens. The winning bid is burned or sent to the seller (TokenBidAuction)
+Auction for an ERC721 or ERC1155 where bids are ERC1155 tokens. The winning bid is always burned (BurnAuction)
 ### V1
 [Mainnet](https://etherscan.io/address/0xD01c3bFADb3DdbD8725d3e0A5193d7ADC5158B64)  
 `0xD01c3bFADb3DdbD8725d3e0A5193d7ADC5158B64`  
