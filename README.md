@@ -91,8 +91,8 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 `0x23aa05A271dEbfFaa3D75739af5581f744B326e4`
 
 ### V8
-[Mainnet](https://etherscan.io/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Base](https://basescan.org/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Optimism](https://optimistic.etherscan.io/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Shape](https://shapescan.xyz/address/0x5889E848b2423344F7969bC158100c07595c0137) | [Sepolia](https://sepolia.etherscan.io/address/0x5889E848b2423344F7969bC158100c07595c0137)  
-`0x5889E848b2423344F7969bC158100c07595c0137`
+[Mainnet](https://etherscan.io/address/0xd5455d23d2052e88C084039A495C51808817040e) | [Base](https://basescan.org/address/0xd5455d23d2052e88C084039A495C51808817040e) | [Sepolia](https://sepolia.etherscan.io/address/0xd5455d23d2052e88C084039A495C51808817040e)  
+`0xd5455d23d2052e88C084039A495C51808817040e`
 
 ## ERC1155 Edition (Formerly known as Claim)
 ### V1
@@ -124,8 +124,8 @@ Mint a group of NFT's on an ERC721 Manifold Creator Contract
 `0x26bbEa7803dCac346d5F5F135b57cf2C752a02BE`
 
 ### V8
-[Mainnet](https://etherscan.io/address/0x88438f4d4B8516E758a319ad16924DA60e1E56CC) | [Base](https://basescan.org/address/0x88438f4d4B8516E758a319ad16924DA60e1E56CC) | [Optimism](https://optimistic.etherscan.io/address/0x88438f4d4B8516E758a319ad16924DA60e1E56CC)| [Shape](https://shapescan.xyz/address/0x88438f4d4B8516E758a319ad16924DA60e1E56CC) | [Sepolia](https://sepolia.etherscan.io/address/0x88438f4d4B8516E758a319ad16924DA60e1E56CC)  
-`0x88438f4d4B8516E758a319ad16924DA60e1E56CC`
+[Mainnet](https://etherscan.io/address/0x6a0D393D439FB7c4953cefed400498985f10CE03) | [Base](https://basescan.org/address/0x6a0D393D439FB7c4953cefed400498985f10CE03) | [Sepolia](https://sepolia.etherscan.io/address/0x6a0D393D439FB7c4953cefed400498985f10CE03)  
+`0x6a0D393D439FB7c4953cefed400498985f10CE03`
 
 ## ERC721 Edition USDC (Formerly known as Claim)
 ### V1
